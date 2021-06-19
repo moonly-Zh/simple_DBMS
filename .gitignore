@@ -1,0 +1,3 @@
+# 屏蔽python的ply库，自己安装，但留有一个说明文档
+/ply/*
+!/ply/explain.md

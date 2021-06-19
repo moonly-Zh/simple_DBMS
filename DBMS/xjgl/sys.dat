@@ -1,0 +1,7 @@
+course 1 cname char 20
+course 2 cid int
+cs 1 sname char 20
+cs 2 cid int
+student 1 sname char 20
+student 2 sage int
+student 3 ssex int

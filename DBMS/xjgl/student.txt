@@ -1,0 +1,6 @@
+xiaohei 19 0
+zhangsan 22 1
+lisi 23 0
+zhaoliu 22 1
+xiaobai 23 0
+xiaohei 19 0
